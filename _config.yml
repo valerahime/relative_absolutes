@@ -15,10 +15,10 @@ author:
       url: "https://bsky.app/profile/valera.moe"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/maserspark"
+      url: "https://instagram.com/valera.hime"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/timecrash"
+      url: "https://github.com/valerahime"
 description: >-
   I'm Valera Velez, a writer currently living in the Philadelphia suburbs.
   Back in 2012, I figured out writing was a heck of a lot more fun than everyone let on, and I've been doing it ever since.
@@ -35,16 +35,16 @@ footer:
       url: "https://bsky.app/profile/valera.moe"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/maserspark"
+      url: "https://instagram.com/valera.hime"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/timecrash"
+      url: "https://github.com/valerahime"
 
 # Build settings
 #theme: minima
-remote_theme: mmistakes/minimal-mistakes@4.26.2
+remote_theme: mmistakes/minimal-mistakes@4.27.0
 minimal_mistakes_skin: neon
-repository: Timecrash/relative_absolutes
+repository: valerahime/relative_absolutes
 permalink: /:categories/:title
 timezone: America/New_York
 search: true
