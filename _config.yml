@@ -9,7 +9,7 @@ author:
   links:
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
-      url: "https://wandering.shop/@timecrash"
+      url: "https://fedi.valera.moe/@valera"
     - label: "Bluesky"
       icon: "fa-brands fa-bluesky"
       url: "https://bsky.app/profile/valera.moe"
@@ -24,21 +24,6 @@ description: >-
   Back in 2012, I figured out writing was a heck of a lot more fun than everyone let on, and I've been doing it ever since.
 baseurl: ""
 url: "https://valera.ink"
-
-footer:
-  links:
-    - label: "Mastodon"
-      icon: "fab fa-fw fa-mastodon"
-      url: "https://wandering.shop/@timecrash"
-    - label: "Bluesky"
-      icon: "fa-brands fa-bluesky"
-      url: "https://bsky.app/profile/valera.moe"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/valera.hime"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/valerahime"
 
 # Build settings
 #theme: minima
